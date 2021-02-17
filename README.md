@@ -1,4 +1,4 @@
-![Alt text](/banner.png)
+![Alt text](/banner2.png)
 
 ### Languages
 
