@@ -1,3 +1,5 @@
+![Alt text](/banner.png)
+
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
