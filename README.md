@@ -7,7 +7,7 @@
 
 👩🏾‍🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo
 
-👩🏾‍💻 Trabalhando no PicPay (temos vagas!)
+👩🏾‍💻 Trabalhando no PicPay (temos [vagas](https://picpay.gupy.io/)!)
 
 👩🏾‍🎨 Hobbies: aprender música, teclado, fotografia e acariciar gatos
 
