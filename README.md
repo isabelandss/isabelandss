@@ -13,4 +13,4 @@
 
 👩🏾‍🎨 Hobbies: aprender música, teclado, fotografia e acariciar gatos
 
-💁🏾‍♀️ <del>Fun</del> Weird fact: Amo ver vídeos de [restauração](https://www.youtube.com/results?search_query=restoration) no Youtube (sério).
+💁🏾‍♀️ <del>Weird</del> Fun fact: Amo ver vídeos de [restauração](https://www.youtube.com/results?search_query=restoration) no Youtube (sério).
